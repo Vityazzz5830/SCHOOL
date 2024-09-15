@@ -1940,6 +1940,8 @@ body {
 	margin-bottom: -5px;
 }
 
-
+footer {
+	background-size: 100% 100%;
+}
 
 }
